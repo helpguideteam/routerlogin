@@ -80,18 +80,23 @@ Frequently Asked Questions (FAQs)
 -------------------------------------
 
 **Q1. What if routerlogin.net is not working?**  
+
 A: Make sure you’re connected to the NETGEAR router’s network and try entering the IP address (192.168.1.1 or 192.168.0.1). Also, clear your browser cache or try another browser.
 
 **Q2. What are the default login credentials for NETGEAR routers?**  
+
 A: Usually, the default username is **admin** and the password is **password**. If you changed them and forgot, you may need to reset your router.
 
 **Q3. Can I access routerlogin.net from any device?**  
+
 A: Yes, as long as the device is connected to your NETGEAR router’s network (Wi-Fi or Ethernet).
 
-**Q4. How do I reset my NETGEAR router if I forget my password?**  
+**Q4. How do I reset my NETGEAR router if I forget my password?**
+
 A: Press and hold the reset button on the back of your router for about 10 seconds until the router restarts. This will restore factory settings, including default login credentials.
 
 **Q5. Is it safe to change router settings via routerlogin.net?**  
+
 A: Yes, but always ensure you use a secure, trusted device and update your login credentials from defaults to prevent unauthorized access.
 
 Conclusion
