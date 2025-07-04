@@ -6,7 +6,7 @@ Are you looking to access your NETGEAR router settings? Visit `routerlogin.net <
 
 .. image:: get-started-here.png
    :alt: Routerlogin.net login
-   :target: https://fm.ci?aHR0cHM6Ly9yb3V0ZXJsb2dpbi1oZWxwY2VudGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
+   :target: https://sites.google.com/view/routerlogin-net/
 
 What Is routerlogin.net?
 ---------------------------
